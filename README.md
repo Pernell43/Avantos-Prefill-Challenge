@@ -75,5 +75,5 @@ src/
     npm install
     npm start
 
-You can find a 30-minute walkthrough of my approach, logic, and demo here:
+You can find a brief walkthrough of my approach, logic, and demo here:
 (https://drive.google.com/file/d/1iTA1EDGZoj5taA4fJsreWPxXjPFiyuQi/view?usp=drive_link)
