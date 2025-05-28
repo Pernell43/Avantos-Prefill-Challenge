@@ -60,19 +60,20 @@ src/
    cd de275b
 
 2. Install the dependencies
-    
-    ```npm install
+    ```bash
+    npm install
 
 3. Start the FrontEnd
-    
-    ```npm run dev
+    ```bash
+    npm run dev
 
 4. Clone and start the mock API server (in a separate folder prefereably)
 
-    ```git clone https://github.com/mosaic-avantos/frontendchallengeserver.git
-    ```cd frontendchallengeserver
-    ```npm install
-    ```npm start
+    ```bash
+    git clone https://github.com/mosaic-avantos/frontendchallengeserver.git
+    cd frontendchallengeserver
+    npm install
+    npm start
 
 You can find a 30-minute walkthrough of my approach, logic, and demo here:
 [Unlisted YouTube Link] – insert your video link here
